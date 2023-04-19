@@ -30,4 +30,4 @@ python run.py
 ```
 
 ## License
-[MIT](Licence)
+[MIT](License)
